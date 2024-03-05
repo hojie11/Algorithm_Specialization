@@ -21,7 +21,7 @@ Learn To Think Like A Computer Scientist. Master the fundamentals of the design 
     * Closest Pair
 
 + The Master Method
-
+    *
 ### Week 3
 
 ### Week 4
