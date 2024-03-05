@@ -18,7 +18,7 @@ Learn To Think Like A Computer Scientist. Master the fundamentals of the design 
 + Divide & Conquer Algorhtim
     * Inversion Counting
     * Strassen's Subcubic Matrix Multiplication Algorithm
-    * Closeset Pair
+    * Closest Pair
 
 + The Master Method
 
