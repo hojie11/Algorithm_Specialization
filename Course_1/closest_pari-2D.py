@@ -1,5 +1,4 @@
 # given n points in the plane, find out the closest pair of points
-# 
 import math
 
 
