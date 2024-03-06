@@ -21,7 +21,11 @@ Learn To Think Like A Computer Scientist. Master the fundamentals of the design 
     * Closest Pair
 
 + The Master Method
-    *
+    * Motivation
+    * Formal Statement
+    * Proof 1
+    * Proof 2
+
 ### Week 3
 
 ### Week 4
