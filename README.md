@@ -14,6 +14,10 @@ Learn To Think Like A Computer Scientist. Master the fundamentals of the design 
     * Big-theta Notation
     * Big-Omega Notation
 
++ :books:
+    * [ ] Problem Set
+    * [ ] Programming Assignment
+
 ### Week 2
 + Divide & Conquer Algorhtim
     * Inversion Counting
@@ -27,5 +31,11 @@ Learn To Think Like A Computer Scientist. Master the fundamentals of the design 
     * Proof 2
 
 ### Week 3
++ Quick Sort - Algorithm
+    * Overview
+    * Partitioning Around a Pivot
+    * Choosing a Good Pivot
++ Quick Sort - Analysis
++ Probability review
 
 ### Week 4
