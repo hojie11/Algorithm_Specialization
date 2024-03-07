@@ -3,7 +3,7 @@ Learn To Think Like A Computer Scientist. Master the fundamentals of the design 
 
 ## Course 1. Divide and Conquer, Sorting and Searching, and Randomized Algorithms
 
-### Week 1
+### Week 1 
 + Introduction
     * Interger Multiplication
     * Karatsuba Multiplication
@@ -15,8 +15,8 @@ Learn To Think Like A Computer Scientist. Master the fundamentals of the design 
     * Big-Omega Notation
 
 + :books:
-    * [x] Problem Set
-    * [x] Programming Assignment
+    * [x] Problem Set :clap:
+    * [x] Programming Assignment :clap:
 
 ### Week 2
 + Divide & Conquer Algorhtim
@@ -31,8 +31,8 @@ Learn To Think Like A Computer Scientist. Master the fundamentals of the design 
     * Proof II
 
 + :books:
-    * [x] Problem Set
-    * [x] Programming Assignment
+    * [x] Problem Set :clap:
+    * [x] Programming Assignment :clap:
 
 ### Week 3
 + Quick Sort - Algorithm
