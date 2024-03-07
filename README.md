@@ -15,8 +15,8 @@ Learn To Think Like A Computer Scientist. Master the fundamentals of the design 
     * Big-Omega Notation
 
 + :books:
-    * [ ] Problem Set
-    * [ ] Programming Assignment
+    * [x] Problem Set
+    * [x] Programming Assignment
 
 ### Week 2
 + Divide & Conquer Algorhtim
@@ -30,6 +30,10 @@ Learn To Think Like A Computer Scientist. Master the fundamentals of the design 
     * Proof 1
     * Proof 2
 
++ :books:
+    * [x] Problem Set
+    * [x] Programming Assignment
+
 ### Week 3
 + Quick Sort - Algorithm
     * Overview
@@ -37,5 +41,9 @@ Learn To Think Like A Computer Scientist. Master the fundamentals of the design 
     * Choosing a Good Pivot
 + Quick Sort - Analysis
 + Probability review
+
++ :books:
+    * [ ] Problem Set
+    * [ ] Programming Assignment
 
 ### Week 4
