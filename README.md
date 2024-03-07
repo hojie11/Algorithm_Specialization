@@ -27,8 +27,8 @@ Learn To Think Like A Computer Scientist. Master the fundamentals of the design 
 + The Master Method
     * Motivation
     * Formal Statement
-    * Proof 1
-    * Proof 2
+    * Proof I
+    * Proof II
 
 + :books:
     * [x] Problem Set
@@ -40,7 +40,12 @@ Learn To Think Like A Computer Scientist. Master the fundamentals of the design 
     * Partitioning Around a Pivot
     * Choosing a Good Pivot
 + Quick Sort - Analysis
+    * Decomposition Principle
+    * The Key Insight
+    * Final Caculations
 + Probability review
+    * Review I
+    * Review II
 
 + :books:
     * [ ] Problem Set
