@@ -49,6 +49,6 @@ Learn To Think Like A Computer Scientist. Master the fundamentals of the design 
 
 + :books:
     * [ ] Problem Set
-    * [ ] Programming Assignment
+    * [x] Programming Assignment :clap:
 
 ### Week 4
