@@ -53,17 +53,8 @@ def merge(arr, sorted_arr, left, mid, right):
 
 if __name__ == '__main__':
     # test case
-    # arr = [6, 5, 4, 3, 2, 1]
-    # n = len(arr)
-    # inv_count = merge_sort(arr, [0] * n, 0, n - 1)
-    # print(arr, inv_count)
-    import numpy as np
-
-    integer_array = []
-    with open('Algorithm_Specialization/Course_1/integerArray.txt') as f:
-        integer_array = list(map(int, f.readlines()))
-    n = len(integer_array)
-    print(n)
-    inv_count = merge_sort(integer_array, [0] * n, 0, n - 1)
-    print(inv_count)
+    arr = [6, 5, 4, 3, 2, 1]
+    n = len(arr)
+    inv_count = merge_sort(arr, [0] * n, 0, n - 1)
+    print(arr, inv_count)
     
