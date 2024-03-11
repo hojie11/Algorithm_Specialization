@@ -52,3 +52,13 @@ Learn To Think Like A Computer Scientist. Master the fundamentals of the design 
     * [x] Programming Assignment :clap:
 
 ### Week 4
++ Linear-time Selection
+    * Randomized Selection
+    * Deterministic Selection
+    * Lower Bound for Comparison-based Sorting
+
++ Graphs and the Contraction Algorithm
+    * Graphs and Minimum Cuts
+    * Graph Representation
+    * Random Contraction Algorithm
+    * Counting Minimum Cuts

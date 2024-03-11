@@ -54,7 +54,7 @@ def quick_sort(arr, l=0, r=None, count=None, pivot=None):
 
 
 integer_array = []
-with open('Algorithm_Specialization/Course_1/quicksort.txt') as f:
+with open('Algorithm_Specialization/Course_1scripts/src/quicksort.txt') as f:
     integer_array = list(map(int, f.readlines()))
 n = len(integer_array)
 print(n)
