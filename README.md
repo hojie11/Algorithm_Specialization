@@ -3,6 +3,8 @@ Learn To Think Like A Computer Scientist. Master the fundamentals of the design 
 
 ## Course 1. Divide and Conquer, Sorting and Searching, and Randomized Algorithms
 
+[Certificate](./Course_1/Certificate.jpg)
+
 ### Week 1 
 + Introduction
     * Interger Multiplication
@@ -62,3 +64,7 @@ Learn To Think Like A Computer Scientist. Master the fundamentals of the design 
     * Graph Representation
     * Random Contraction Algorithm
     * Counting Minimum Cuts
+
++ :books:
+    * [x] Problem Set :clap:
+    * [x] Programming Assignment :clap:

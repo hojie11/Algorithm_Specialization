@@ -1,2 +1,3 @@
 # ignore any files(.txt)
 *.txt
+.DS_store

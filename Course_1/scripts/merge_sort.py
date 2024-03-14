@@ -53,7 +53,7 @@ def merge(arr, sorted_arr, left, mid, right):
 
 if __name__ == '__main__':
     # test case
-    arr = [6, 5, 4, 3, 2, 1]
+    arr = [5, 3, 8, 9, 1, 7, 0, 2, 6, 4]
     n = len(arr)
     inv_count = merge_sort(arr, [0] * n, 0, n - 1)
     print(arr, inv_count)
