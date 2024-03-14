@@ -68,3 +68,6 @@ Learn To Think Like A Computer Scientist. Master the fundamentals of the design 
 + :books:
     * [x] Problem Set :clap:
     * [x] Programming Assignment :clap:
+
+## Course 2. Graph Search, Shortest Paths, and Data Structures
+
